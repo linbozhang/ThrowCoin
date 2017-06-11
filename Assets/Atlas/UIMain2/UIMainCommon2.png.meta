@@ -74,7 +74,7 @@ TextureImporter:
     overridden: 0
   - buildTarget: Android
     maxTextureSize: 4096
-    textureFormat: 47
+    textureFormat: 29
     textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
