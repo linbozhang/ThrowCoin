@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 5a2c128c4d68c4cbf859366b36ba92c6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone023
+    100002: Bone024
+    100004: Bone025
+    100006: Bone026
+    100008: Bone027
+    100010: Bone028
+    100012: Bone029
+    100014: Bone029(mirrored)
+    100016: Bone030
+    100018: Bone030(mirrored)
+    100020: Bone031
+    100022: Bone032
+    100024: M0011
+    100026: //RootNode
+    400000: Bone023
+    400002: Bone024
+    400004: Bone025
+    400006: Bone026
+    400008: Bone027
+    400010: Bone028
+    400012: Bone029
+    400014: Bone029(mirrored)
+    400016: Bone030
+    400018: Bone030(mirrored)
+    400020: Bone031
+    400022: Bone032
+    400024: M0011
+    400026: //RootNode
+    4300000: M0011
+    7400000: idle_0011
+    9500000: //RootNode
+    13700000: M0011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle_0011
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone023
+        weight: 1
+      - path: Bone023/Bone024
+        weight: 1
+      - path: Bone023/Bone024/Bone025
+        weight: 1
+      - path: Bone023/Bone024/Bone029
+        weight: 1
+      - path: Bone023/Bone024/Bone029/Bone030
+        weight: 1
+      - path: Bone023/Bone024/Bone029(mirrored)
+        weight: 1
+      - path: Bone023/Bone024/Bone029(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: Bone023/Bone026
+        weight: 1
+      - path: Bone023/Bone026/Bone027
+        weight: 1
+      - path: Bone023/Bone026/Bone027/Bone028
+        weight: 1
+      - path: Bone023/Bone031
+        weight: 1
+      - path: Bone023/Bone031/Bone032
+        weight: 1
+      - path: M0011
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

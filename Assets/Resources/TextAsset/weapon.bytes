@@ -1,0 +1,4 @@
+{"reload":0.1,"hurt":10,"cost":10,"id":6601,"oid":1001,"name":"初级枪"}
+{"reload":0.1,"hurt":50,"cost":50,"id":6602,"oid":1004,"name":"中级枪"}
+{"reload":0.1,"hurt":100,"cost":100,"id":6603,"oid":1005,"name":"高级枪"}
+{"reload":0.1,"hurt":1000,"cost":1000,"id":6604,"oid":1006,"name":"秒杀枪"}

@@ -1,0 +1,16 @@
+{"id":1,"payCost":30,"name":"新手礼包","payKey":101,"repeat":0,"showText":"新手礼包"}
+{"id":2,"payCost":30,"name":"幸运礼包","payKey":102,"repeat":0,"showText":"幸运礼包"}
+{"id":3,"payCost":30,"name":"土豪礼包","payKey":103,"repeat":0,"showText":"土豪礼包"}
+{"id":4,"payCost":0.1,"name":"超值礼包","payKey":104,"repeat":0,"showText":"超值礼包"}
+{"id":5,"payCost":30,"name":"金币补充","payKey":105,"repeat":1,"showText":"金币补充"}
+{"id":6,"payCost":30,"name":"道具补充","payKey":106,"repeat":1,"showText":"道具补充"}
+{"id":7,"payCost":6,"name":"购买60钻石","payKey":107,"repeat":1,"showText":"钻石补充"}
+{"id":8,"payCost":9,"name":"购买100钻石","payKey":108,"repeat":1,"showText":"钻石补充"}
+{"id":9,"payCost":16,"name":"购买200钻石","payKey":109,"repeat":1,"showText":"钻石补充"}
+{"id":10,"payCost":22,"name":"购买300钻石","payKey":110,"repeat":1,"showText":"钻石补充"}
+{"id":11,"payCost":28,"name":"购买400钻石","payKey":111,"repeat":1,"showText":"钻石补充"}
+{"id":12,"payCost":30,"name":"狂暴解锁","payKey":112,"repeat":0,"showText":"狂暴奖励"}
+{"id":13,"payCost":10,"name":"十连抽","payKey":113,"repeat":1,"showText":"幸运十连转"}
+{"id":14,"payCost":30,"name":"双倍奖励","payKey":114,"repeat":1,"showText":"等级奖励"}
+{"id":15,"payCost":30,"name":"指哪打哪","payKey":115,"repeat":0,"showText":"指哪打哪"}
+{"id":16,"payCost":30,"name":"角色3合1","payKey":116,"repeat":0,"showText":"角色3合1"}

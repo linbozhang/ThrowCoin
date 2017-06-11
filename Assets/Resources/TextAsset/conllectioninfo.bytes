@@ -1,0 +1,15 @@
+{"MaskUISprite":"Icon_Collection_001","groupID":1,"sell_factor":1.1,"groupdes":"宝石原石","description":"每当收集品滑落就有几率获得1枚金币","sell_num":10,"ID":3001}
+{"MaskUISprite":"Icon_Collection_002","groupID":1,"sell_factor":1.1,"groupdes":"宝石原石","description":"每当收集品滑落就有几率获得2枚金币","sell_num":10,"ID":3002}
+{"MaskUISprite":"Icon_Collection_003","groupID":1,"sell_factor":1.1,"groupdes":"宝石原石","description":"每当收集品滑落就有几率获得3枚金币","sell_num":20,"ID":3003}
+{"MaskUISprite":"Icon_Collection_004","groupID":2,"sell_factor":1.1,"groupdes":"神秘药水","description":"当卡片和收集品丢失就有几率落回舞台","sell_num":10,"ID":3004}
+{"MaskUISprite":"Icon_Collection_005","groupID":2,"sell_factor":1.1,"groupdes":"神秘药水","description":"每级增加投掷指针移动速度3%。","sell_num":20,"ID":3005}
+{"MaskUISprite":"Icon_Collection_006","groupID":2,"sell_factor":1.1,"groupdes":"神秘药水","description":"每级增加出现陨石几率2%。","sell_num":20,"ID":3006}
+{"MaskUISprite":"Icon_Collection_007","groupID":3,"sell_factor":1.2,"groupdes":"黏黏的液体","description":"每级增加触发777几率1%，基础几率5%。","sell_num":10,"ID":3007}
+{"MaskUISprite":"Icon_Collection_008","groupID":3,"sell_factor":1.2,"groupdes":"黏黏的液体","description":"每级增加触发防御墙几率1.5%，触发防御墙会持续30秒。","sell_num":20,"ID":3008}
+{"MaskUISprite":"Icon_Collection_009","groupID":3,"sell_factor":1.2,"groupdes":"黏黏的液体","description":"每级增加触发长舌几率1.5%。","sell_num":20,"ID":3009}
+{"MaskUISprite":"Icon_Collection_010","groupID":4,"sell_factor":1.2,"groupdes":"呆毛","description":"每级减慢投掷指针移动速度3%。","sell_num":10,"ID":3010}
+{"MaskUISprite":"Icon_Collection_011","groupID":4,"sell_factor":1.2,"groupdes":"呆毛","description":"每级减慢外星人转盘移动速度2%。","sell_num":20,"ID":3011}
+{"MaskUISprite":"Icon_Collection_012","groupID":4,"sell_factor":1.2,"groupdes":"呆毛","description":"每级增加触发冰雪几率1.5%。","sell_num":30,"ID":3012}
+{"MaskUISprite":"Icon_Collection_013","groupID":5,"sell_factor":1.3,"groupdes":"水晶石","description":"每级增加击杀外星人有1%几率额外弹出一个收集品。","sell_num":10,"ID":3013}
+{"MaskUISprite":"Icon_Collection_014","groupID":5,"sell_factor":1.3,"groupdes":"水晶石","description":"每级增加击杀外星人1%几率额外出现1个金币。","sell_num":20,"ID":3014}
+{"MaskUISprite":"Icon_Collection_015","groupID":5,"sell_factor":1.3,"groupdes":"水晶石","description":"每次掉下的币有1％的几率是X2币。","sell_num":30,"ID":3015}
