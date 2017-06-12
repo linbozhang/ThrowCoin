@@ -375,6 +375,7 @@ public class YeHuoSDK : WGMonoComptent {
 
 	public static void YHPay (string key,float costRMB,int jewelCount,System.Action<bool> myBlock)
 	{
+		costRMB /= 100;
 		if(Self.dicPayBlock.ContainsKey(key))
 		{
 			Self.dicPayBlock.Remove(key);
@@ -400,11 +401,11 @@ public class YeHuoSDK : WGMonoComptent {
 
 //		SongSDK.Self.YHPay(key);
 
-//		if(Application.platform == RuntimePlatform.Android)
-//		{
-//			jo.Call ("MyPay", key);
-//		}
-//		else // for test
+		if(Application.platform == RuntimePlatform.Android)
+		{
+			jo.Call ("MyPay", key,Mathf.FloorToInt(costRMB*10));
+		}
+		else // for test
 		{
 			Self.OnMessage("{\"a\":3,\"k\":0,\"s\":\""+key+"\"}");
 		}
